@@ -21,7 +21,11 @@ To run the project, make sure you have Python installed. Then install Pillow:
 ```bash
 pip install Pillow
 ```
+or
 
+```bash
+pip install -r requirements.txt
+```
 ---
 
 ## 📂 Project Structure
