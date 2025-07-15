@@ -43,6 +43,7 @@ text-on-image/
 3. Run the script:
 
 ```bash
+pip install -r requirements.txt
 python add_text.py
 ```
 
